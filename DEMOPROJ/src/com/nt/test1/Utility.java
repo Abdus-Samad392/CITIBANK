@@ -11,4 +11,7 @@ public class Utility {
 		System.out.println("abcd");
 		
 	}
+	public void m2() {
+		System.out.println("Utility.m2()");
+	}
 }
